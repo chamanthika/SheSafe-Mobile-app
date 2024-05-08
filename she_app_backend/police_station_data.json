@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Achchuweli - Police Station",
+        "contact": "0212058585",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Agalawaththa - Police Station",
+        "contact": "0342248855",
+        "postalCode": "12200"
+    },
+    {
+        "name": "Agarapathana - Police Station",
+        "contact": "0512230222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Agbopura - Police Station",
+        "contact": "0262244111",
+        "postalCode": "31304"
+    },
+    {
+        "name": "Ahangama - Police Station",
+        "contact": "0912283222",
+        "postalCode": "80650"
+    },
+    {
+        "name": "Ahungalla - Police Station",
+        "contact": "0912264026",
+        "postalCode": "80562"
+    },
+    {
+        "name": "Aiththamalai - Police Station",
+        "contact": "0653647513",
+        "postalCode": "80650"
+    },
+    {
+        "name": "Akkaraipattu - Police Station",
+        "contact": "0672277222",
+        "postalCode": "43000"
+    },
+    {
+        "name": "Akkarayankulam - Police Station",
+        "contact": "0113081016",
+        "postalCode": "43000"
+    },
+    {
+        "name": "Akmeemana - Police Station",
+        "contact": "0912234223",
+        "postalCode": "80212"
+    },
+    {
+        "name": "Akuressa - Police Station",
+        "contact": "0412283222",
+        "postalCode": "81400"
+    },
+    {
+        "name": "Alawathugoda - Police Station",
+        "contact": "0662244322",
+        "postalCode": "20140"
+    },
+    {
+        "name": "Alawwa - Police Station",
+        "contact": "0372278122",
+        "postalCode": "60280"
+    },
+    {
+        "name": "Aluthgama - Police Station",
+        "contact": "0342275222",
+        "postalCode": "12080"
+    },
+    {
+        "name": "Ambalangoda - Police Station",
+        "contact": "0912258222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ambalantota - Police Station",
+        "contact": "0472223222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ambanpola - Police Station",
+        "contact": "0372253044",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ampara - Police Station",
+        "contact": "0632222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Anamaduwa - Police Station",
+        "contact": "0322263296",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Angulana - Police Station",
+        "contact": "0112626357",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Angunakolapelessa - Police Station",
+        "contact": "0472228222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Anguruwatota - Police Station",
+        "contact": "0342251344",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ankumbura - Police Station",
+        "contact": "0662240222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Anuradhapura - Police Station",
+        "contact": "0252222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Arachchikattuwa - Police Station",
+        "contact": "0322259722",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Aralaganwila - Police Station",
+        "contact": "0272222221",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Athurugiriya - Police Station",
+        "contact": "0112561222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Awissawella - Police Station",
+        "contact": "0362222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ayagama - Police Station",
+        "contact": "0452250122",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Badalkumbura - Police Station",
+        "contact": "0552250222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Baddegama - Police Station",
+        "contact": "0912292222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Badulla - Police Station",
+        "contact": "0552222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Baduraliya - Police Station",
+        "contact": "0342244422",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bagawanthalawa - Police Station",
+        "contact": "0522267522",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bakamuna - Police Station",
+        "contact": "0662256622",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bakkiella - Police Station",
+        "contact": "0633632228",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Balangoda - Police Station",
+        "contact": "0452287222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bambalapitiya - Police Station",
+        "contact": "0112588680",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bandaragama - Police Station",
+        "contact": "0382290222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bandarawela - Police Station",
+        "contact": "0572222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Batapola - Police Station",
+        "contact": "0912261822",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Batticaloa - Police Station",
+        "contact": "0652224422",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Beliaththa - Police Station",
+        "contact": "0472243222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bentota - Police Station",
+        "contact": "0342275022",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Beruwala - Police Station",
+        "contact": "0342276322",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bibila - Police Station",
+        "contact": "0552265422",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bingiriya - Police Station",
+        "contact": "0322246165",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Biyagama - Police Station",
+        "contact": "0112487574",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bloemendhal - Police Station",
+        "contact": "0112522733",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "BMICH - Police Station",
+        "contact": "0112691132",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bogahakumbura - Police Station",
+        "contact": "0572281221",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bogaswava - Police Station",
+        "contact": "0243241716",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Boralesgamuwa - Police Station",
+        "contact": "0112509461",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Borella - Police Station",
+        "contact": "0112693938",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bulathkohupitiya - Police Station",
+        "contact": "0362247222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Bulathsinhala - Police Station",
+        "contact": "0342283122",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Buththala - Police Station",
+        "contact": "0552273922",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Central Camp - Police Station",
+        "contact": "0632051722",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Centre For Policy Alternatives",
+        "address": "No:6/5 Layards Road Colombo 5",
+        "contact": "0112081384"
+    },
+    {
+        "name": "Chawakachcheri - Police Station",
+        "contact": "0212270722",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Chawalakade - Police Station",
+        "contact": "0672229596",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Chettikulam - Police Station",
+        "contact": "0242260907",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Chilaw - Police Station",
+        "contact": "0322222222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "ChinaBay - Police Station",
+        "contact": "0262233222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Chunnakam - Police Station",
+        "contact": "0212240323",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Cinnamon Garden - Police Station",
+        "contact": "0112695411",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Colombo Harbour - Police Station",
+        "contact": "0112320980",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dalada maligawa - Police Station",
+        "contact": "0812225722",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dam Street - Police Station",
+        "contact": "0112432612",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Damana - Police Station",
+        "contact": "0632240022",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dambagalla - Police Station",
+        "contact": "0552275222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dambulla - Police Station",
+        "contact": "0662275222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dankotuwa - Police Station",
+        "contact": "0312258222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Daulagala - Police Station",
+        "contact": "0812315032",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dayagama - Police Station",
+        "contact": "0512230003",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dehiaththakandiya - Police Station",
+        "contact": "0272250178",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dehiwala - Police Station",
+        "contact": "0112738222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Deiyandara - Police Station",
+        "contact": "0412268783",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Delft - Police Station",
+        "contact": "0213213337",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dematagoda - Police Station",
+        "contact": "0112693838",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Deniyaya - Police Station",
+        "contact": "0412273222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Deraniyagala - Police Station",
+        "contact": "0362249222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dharmapuram - Police Station",
+        "contact": "0212283050",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dikwella - Police Station",
+        "contact": "0412255222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dimbulapathana - Police Station",
+        "contact": "0512244222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Divulapitiya - Police Station",
+        "contact": "0312246222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Diyathalawa - Police Station",
+        "contact": "0572229022",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dodangoda - Police Station",
+        "contact": "0342281622",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dompe - Police Station",
+        "contact": "0112409222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Dummalasooriya - Police Station",
+        "contact": "0322240624",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Egoda Uyana - Police Station",
+        "contact": "0112659796",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Eheliyagoda - Police Station",
+        "contact": "0362258222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ella - Police Station",
+        "contact": "0572228522",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Elpitiya - Police Station",
+        "contact": "0912291222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Enadana - Police Station",
+        "contact": "0452270228",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Eppawala - Police Station",
+        "contact": "0252249122",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Eravur - Police Station",
+        "contact": "0652240487",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Etampitiya - Police Station",
+        "contact": "0552294965",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Ethimale - Police Station",
+        "contact": "0552275622",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Fort - Police Station",
+        "contact": "0112433744",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Galagedera - Police Station",
+        "contact": "0812461222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Galaha - Police Station",
+        "contact": "0812467222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Galenbidunuwewa - Police Station",
+        "contact": "0252258222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Galewela - Police Station",
+        "contact": "0662289222",
+        "postalCode": "NNNNN"
+    },
+    {
+        "name": "Common Number",
+        "contact": "119",
+        "postalCode": "NNNNN"
+    }
+]
