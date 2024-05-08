@@ -1,1 +1,10 @@
-#she safe app
+#Run Backend
+
+    npm run dev
+    run ngrok -> ngrok http 3000
+    copy url to the global.dart
+
+#Run Frontend
+
+  
+
