@@ -1,3 +1,6 @@
+
+//Done by -KTN DHARMADASA -index-24920
+
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -214,6 +217,7 @@ class _UserDetailsState extends State<Updatedetails> {
   Future<void> loadProfileData() async {
     try {
       final response = await http.post(
+        // ignore: unnecessary_brace_in_string_interps
         Uri.parse('${globalUrl}/users/singleUser'),
         body: json.encode({'email': logged_user}),
         headers: {'Content-Type': 'application/json'},
@@ -240,10 +244,12 @@ class _UserDetailsState extends State<Updatedetails> {
         throw Exception('Failed to load profile data');
       }
     } catch (error) {
+      // ignore: avoid_print
       print('Error: $error');
     }
   }
 
+  // ignore: non_constant_identifier_names
   void update_profile(BuildContext context) async {
     try {
       final Map<String, dynamic> requestData = {
@@ -254,6 +260,7 @@ class _UserDetailsState extends State<Updatedetails> {
       };
 
       final response = await http.put(
+        // ignore: unnecessary_brace_in_string_interps
         Uri.parse('${globalUrl}/users/updateUser/user@example.com'),
         body: json.encode(requestData),
         headers: {'Content-Type': 'application/json'},
@@ -261,6 +268,7 @@ class _UserDetailsState extends State<Updatedetails> {
 
       if (response.statusCode == 200) {
         // Profile updated successfully
+        // ignore: use_build_context_synchronously
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Profile updated successfully'),
@@ -278,6 +286,7 @@ class _UserDetailsState extends State<Updatedetails> {
     } catch (error) {
       print('Error updating profile: $error');
       // Display error message
+      // ignore: use_build_context_synchronously
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Failed to update profile. Please try again later.'),

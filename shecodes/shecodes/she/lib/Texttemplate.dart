@@ -1,4 +1,5 @@
-// ignore_for_file: avoid_print
+
+//Done by -KTN DHARMADASA -index-24920
 
 import 'dart:convert';
 
@@ -26,10 +27,12 @@ class Texttemplate extends StatelessWidget {
 class EmergencyTextScreen extends StatefulWidget {
   final List<Map<String, dynamic>> selectedContacts;
 
+  // ignore: use_super_parameters
   const EmergencyTextScreen({Key? key, required this.selectedContacts})
       : super(key: key);
 
   @override
+  // ignore: library_private_types_in_public_api
   _EmergencyTextScreenState createState() => _EmergencyTextScreenState();
 }
 
