@@ -1,3 +1,6 @@
+
+//Done by -KTN DHARMADASA -index-24920
+
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -10,8 +13,7 @@ import 'package:she/homepage.dart';
 class Texttemplate extends StatelessWidget {
   final List<Map<String, dynamic>> selectedContacts;
 
-  const Texttemplate({Key? key, required this.selectedContacts})
-      : super(key: key);
+  const Texttemplate({super.key, required this.selectedContacts});
 
   @override
   Widget build(BuildContext context) {
@@ -25,10 +27,12 @@ class Texttemplate extends StatelessWidget {
 class EmergencyTextScreen extends StatefulWidget {
   final List<Map<String, dynamic>> selectedContacts;
 
-  EmergencyTextScreen({Key? key, required this.selectedContacts})
+  // ignore: use_super_parameters
+  const EmergencyTextScreen({Key? key, required this.selectedContacts})
       : super(key: key);
 
   @override
+  // ignore: library_private_types_in_public_api
   _EmergencyTextScreenState createState() => _EmergencyTextScreenState();
 }
 
@@ -40,6 +44,7 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
     fun_load_text();
   }
 
+  // ignore: non_constant_identifier_names
   Future<void> fun_load_text() async {
     final url = Uri.parse('$globalUrl/emergency_text/getAllText');
 
@@ -173,6 +178,7 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
     );
   }
 
+  // ignore: non_constant_identifier_names
   Future<void> send_msg(BuildContext context) async {
     List<Map<String, dynamic>> selectedMsg = [];
 
@@ -181,7 +187,11 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
         selectedMsg.add(message);
       }
     }
-    print(widget.selectedContacts);
+     
+       // ignore: duplicate_ignore
+       // ignore: avoid_print
+       print(widget.selectedContacts);
+    
 
     try {
       final url = Uri.parse('$globalUrl/emergency_text/sendTextMsg');
@@ -201,6 +211,7 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
 
       if (response.statusCode == 201) {
         fun_load_text();
+        // ignore: use_build_context_synchronously
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Emergency Text saved successfully.'),
@@ -214,6 +225,7 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
         });
       } else {
         print('API call failed with status code ${response.statusCode}');
+        // ignore: use_build_context_synchronously
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Failed to send message. Please try again later.'),
@@ -221,7 +233,9 @@ class _EmergencyTextScreenState extends State<EmergencyTextScreen> {
         );
       }
     } catch (e) {
+      // ignore: avoid_print
       print('Error: $e');
+      // ignore: use_build_context_synchronously
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content:

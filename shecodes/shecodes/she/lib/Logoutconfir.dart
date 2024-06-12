@@ -1,3 +1,6 @@
+
+//Done by -KTN DHARMADASA -index-24920
+
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -6,6 +9,8 @@ import 'package:she/globals.dart';
 import 'package:she/homepage.dart';
 
 class Logoutconfir extends StatelessWidget {
+  const Logoutconfir({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -123,6 +128,7 @@ class Logoutconfir extends StatelessWidget {
     );
   }
 
+  // ignore: non_constant_identifier_names
   void logout_action(BuildContext context) {
     logged_user = "";
     Future.delayed(Duration(milliseconds: 500), () {
@@ -134,11 +140,12 @@ class Logoutconfir extends StatelessWidget {
     });
   }
 
+  // ignore: non_constant_identifier_names
   void logout_cancel_action(BuildContext context) {
-    Future.delayed(Duration(milliseconds: 500), () {
+    Future.delayed (Duration(milliseconds: 500), () {
       // Navigate to the login page and remove all other routes from the navigation stack
       Navigator.of(context).pushAndRemoveUntil(
-        MaterialPageRoute(builder: (context) => homepage()),
+        MaterialPageRoute(builder: (context) => const homepage()),
         (Route<dynamic> route) => false,
       );
     });
